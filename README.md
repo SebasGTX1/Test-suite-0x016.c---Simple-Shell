@@ -1,2 +1,7 @@
-# Test suite 0x016.c - Simple-Shell
-This is a test suit for the simple shell project at holberton school
+## Configuration
+
+Open the file `config` and update the variable `SHELL` with your shell. Remember to put the exe into the test folder.
+
+## Run
+
+Usage `./check_simple_shell.bash`
